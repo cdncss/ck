@@ -71,10 +71,10 @@ function ckplayerConfig() {
 		},
 		menu: { //版权名称支持
 			ckkey: '',
-			name: '黑猫动漫',
-			link: 'https://www.heimaodm.com',
+			name: '达达兔',
+			link: 'https://www.dadatutu.com',
 			version: '',
-			domain: 'www.heimaodm.com',
+			domain: 'www.dadatutu.com',
 			more: []
 		},
 		style: { //风格部分内容配置，这里主要配置loading和logo以及广告的部分内容
