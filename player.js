@@ -45,9 +45,9 @@ var cookie = {
 		autoplay:true,
 		video: huiid,
 		menu: { //版权名称支持
-			name: '黑猫动漫',
-			link: 'https://www.heimaodm.com',
-			domain: 'www.heimaodm.com',
+			name: '达达兔',
+			link: 'https://www.dadatutu.com',
+			domain: 'www.dadatutu.com',
 		},
 	};
 	}
